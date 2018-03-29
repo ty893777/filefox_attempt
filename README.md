@@ -1,5 +1,5 @@
 # Project: File Uploader 
-![logo] (http://testersdock.com/wp-content/uploads/2017/09/file-upload.png)
+[logo] (http://testersdock.com/wp-content/uploads/2017/09/file-upload.png)
 Easy file-uploading website with simplicity and security in mind.'Not all sites should be a social-network.
 
 ### Prerequisites
