@@ -1,5 +1,4 @@
 # Project: F_Upload 
-![alt text](http://url/to/img.png)
 Easy file-uploading website with simplicity and security in mind.'Not all sites should be a social-network.
 
 ### Prerequisites
