@@ -6,6 +6,7 @@ Easy file-uploading website with simplicity and security in mind.'Not all sites 
 
 ```javascript
   Node.js v.9.6.1
+  LoDash
   pretty much it 
 ```
 Give examples
