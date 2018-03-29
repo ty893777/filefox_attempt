@@ -1,0 +1,4 @@
+body-parser deprecated bodyParser: use individual json/urlencoded middlewares app.js:32:9
+body-parser deprecated undefined extended: provide extended option node_modules/body-parser/index.js:105:29
+express-session deprecated undefined resave option; provide resave option app.js:35:9
+express-session deprecated undefined saveUninitialized option; provide saveUninitialized option app.js:35:9
