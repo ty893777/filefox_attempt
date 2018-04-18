@@ -1,0 +1,16 @@
+{
+  "name": "f_uploader",
+  "scripts": {
+  },
+  "env": {
+    "MONGO_URL": ""
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
